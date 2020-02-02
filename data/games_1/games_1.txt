@@ -1,0 +1,12 @@
+ficsgames.org download from 2020-01-25 06:49:12 with search parameters:
+ignore colors =  yes
+only rated games = no
+Variant = any
+From Date (UTC) = 2019-01-25 05:00:00
+Until Date (UTC)= 2020-01-25 11:49:12
+Both player ratings: > 2600 
+Computer and human games: all games
+Game Result: any
+Time controls: Any time per game / Any Increment
+ECO = any
+Game count: 5000 games

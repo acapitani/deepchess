@@ -1,0 +1,7 @@
+/venv/
+/__pycache__/
+/bert/
+/.vscode/
+.DS_Store
+
+
